@@ -1,0 +1,140 @@
+.body {
+    font-family: Consolas,monaco,monospace;
+    color: white;
+    background-color: #282C34;
+}
+
+.copy:after {
+    color: #808080;
+    content: " (copy)";
+}
+
+.copied:after {
+    color: #808080;
+    content: " (copied)";
+
+}
+
+.discord {
+    cursor: pointer;
+}
+
+.cyan {
+    color: #59e3e3;
+}
+
+.green {
+    color: #29d398;
+}
+
+.neo-yellow {
+    color: #E5C07B;
+}
+
+.cmd {
+    padding: 1em;
+    gap: 1em;
+}
+
+.body {
+    display: flex;
+    flex-direction: row;
+    height: min-content;
+    padding: 2em;
+    gap: 1em;
+    justify-content: center;
+}
+
+.neofetch-card {
+    display: flex;
+    flex-direction: row;
+    height: min-content;
+    padding: 1em;
+    gap: 1em;
+    justify-content: center;
+}
+
+.footnote {
+    display: flex;
+    flex-direction: row;
+    height: min-content;
+    padding: 1em;
+    gap: 1em;
+}
+
+.play {
+    cursor: pointer;
+}
+
+.url {
+    color: #fff;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.black-bg {
+    background-color: #46465c;
+}
+
+.red-bg {
+    background-color: #e95678;
+}
+
+.green-bg {
+    background-color: #29d398;
+}
+
+.yellow-bg {
+    background-color: #fab795;
+}
+
+.blue-bg {
+    background-color: #26bbd9;
+}
+
+.magenta-bg {
+    background-color: #ee64ae;
+}
+
+.cyan-bg {
+    background-color: #59e3e3;
+}
+
+.white-bg {
+    background-color: #fdf0ed;
+}
+
+.bright-black-bg {
+    background-color: #634560;
+}
+
+.bright-red-bg {
+    background-color: #ec6a88;
+}
+
+.bright-green-bg {
+    background-color: #3fdaa4;
+}
+
+.bright-yellow-bg {
+    background-color: #fbc3a7;
+}
+
+.bright-blue-bg {
+    background-color: #3fc6de;
+}
+
+.bright-magenta-bg {
+    background-color: #f075b7;
+}
+
+.bright-cyan-bg {
+    background-color: #6be6e6;
+}
+
+.bright-white-bg {
+    background-color: #fff;
+}
+
